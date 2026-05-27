@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "boas-vindas-gestao-2026",
+    "titulo": "Bem-vindos à Gestão 2026 do DA APGS",
+    "resumo": "A nova diretoria toma posse e apresenta as prioridades para o ano letivo, incluindo o lançamento do portal institucional e a retomada da Revista Saber em Movimento.",
+    "conteudo": "É com grande entusiasmo que a Gestão 2026 do Diretório Acadêmico APGS assume a representação dos estudantes de Administração Pública e Gestão Social da UFBA...",
+    "categoria": "Institucional",
+    "publicado_em": "2026-03-01T10:00:00-03:00",
+    "autor": "Presidência DA APGS"
+  },
+  {
+    "slug": "assembleia-geral-ordinaria-marco",
+    "titulo": "Assembleia Geral Ordinária — Março 2026",
+    "resumo": "Convocação para a primeira assembleia geral ordinária da gestão. Pauta inclui aprovação do plano de trabalho e calendário de atividades.",
+    "conteudo": "Ficam convocados todos os estudantes do curso de APGS para a Assembleia Geral Ordinária...",
+    "categoria": "Assembleia",
+    "publicado_em": "2026-03-10T08:00:00-03:00",
+    "autor": "Secretaria Geral"
+  },
+  {
+    "slug": "lancamento-portal-daapgs",
+    "titulo": "Portal Oficial do DA APGS no Ar!",
+    "resumo": "Lançamos hoje o nosso portal institucional em daapgs.org.br. O site centraliza transparência, ouvidoria, acervo acadêmico e a Revista Saber em Movimento.",
+    "conteudo": "Com muito orgulho, a Diretoria de Comunicação anuncia o lançamento do portal oficial do DA APGS...",
+    "categoria": "Comunicação",
+    "publicado_em": "2026-04-01T09:00:00-03:00",
+    "autor": "Dir. de Comunicação"
+  }
+]

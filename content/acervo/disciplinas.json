@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "introducao-administracao-publica",
+    "nome": "Introdução à Administração Pública",
+    "semestre": 1,
+    "area": "Administração",
+    "ementa": "Conceitos básicos de administração pública, evolução histórica, modelos burocráticos e gerenciais.",
+    "bibliografias": [
+      "BRESSER-PEREIRA, L.C. Democracia, Estado Social e Reforma Gerencial. RAE, v.50, n.1, 2010.",
+      "CHIAVENATO, I. Introdução à Teoria Geral da Administração. 8.ed. Elsevier, 2011."
+    ],
+    "materiais": [
+      {
+        "titulo": "Slides — Unidade 1: O Estado e a Administração",
+        "drive_url": "https://drive.google.com/file/d/MAT_01_ID/view",
+        "tipo": "Slides"
+      }
+    ]
+  },
+  {
+    "slug": "gestao-social-e-participacao",
+    "nome": "Gestão Social e Participação Cidadã",
+    "semestre": 2,
+    "area": "Gestão Social",
+    "ementa": "Fundamentos da gestão social, esfera pública, participação cidadã e controle social.",
+    "bibliografias": [
+      "TENÓRIO, F.G. Gestão Social: uma perspectiva conceitual. RAP, v.32, n.5, 1998."
+    ],
+    "materiais": []
+  },
+  {
+    "slug": "direito-administrativo",
+    "nome": "Direito Administrativo",
+    "semestre": 3,
+    "area": "Direito",
+    "ementa": "Princípios do direito administrativo, atos administrativos, licitações e contratos.",
+    "bibliografias": [
+      "MEIRELLES, H.L. Direito Administrativo Brasileiro. 42.ed. Malheiros, 2016."
+    ],
+    "materiais": []
+  }
+]

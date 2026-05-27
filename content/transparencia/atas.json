@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "ata-reuniao-inaugural-2026",
+    "titulo": "Ata da Reunião Inaugural — Gestão 2026",
+    "tipo": "ata",
+    "drive_url": "https://drive.google.com/file/d/EXEMPLO_ID/view",
+    "publicado_em": "2026-03-05T10:00:00-03:00",
+    "responsavel": "Secretaria Geral"
+  },
+  {
+    "slug": "ata-reuniao-ordinaria-02-2026",
+    "titulo": "Ata da 2ª Reunião Ordinária — Março 2026",
+    "tipo": "ata",
+    "drive_url": "https://drive.google.com/file/d/EXEMPLO_ID_2/view",
+    "publicado_em": "2026-03-20T10:00:00-03:00",
+    "responsavel": "Secretaria Geral"
+  }
+]

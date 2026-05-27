@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "saber-em-movimento-v1-n1",
+    "volume": 1,
+    "numero": 1,
+    "ano": 2026,
+    "titulo": "Administração Pública e Democracia Participativa",
+    "descricao": "Primeira edição da Revista Saber em Movimento, com artigos sobre democracia participativa, gestão social e políticas públicas.",
+    "drive_url": "https://drive.google.com/file/d/EDICAO_COMPLETA_ID/view",
+    "artigos": [
+      {
+        "titulo": "Conselhos Gestores como Instrumentos de Controle Social",
+        "autores": ["Ana Beatriz Souza", "Carlos Henrique Lima"],
+        "resumo": "Análise do papel dos conselhos gestores nas políticas públicas municipais da Bahia.",
+        "drive_url": "https://drive.google.com/file/d/ARTIGO_01_ID/view",
+        "palavras_chave": ["controle social", "conselhos gestores", "políticas públicas"]
+      },
+      {
+        "titulo": "Orçamento Participativo: Experiências no Nordeste Brasileiro",
+        "autores": ["Mariana Fonseca"],
+        "resumo": "Estudo comparado de experiências de orçamento participativo em municípios nordestinos.",
+        "drive_url": "https://drive.google.com/file/d/ARTIGO_02_ID/view",
+        "palavras_chave": ["orçamento participativo", "democracia", "nordeste"]
+      }
+    ]
+  }
+]

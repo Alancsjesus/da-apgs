@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "assembleia-geral-abril",
+    "titulo": "Assembleia Geral Ordinária",
+    "descricao": "Votação do plano de atividades e prestação de contas do primeiro trimestre.",
+    "local": "Auditório EAUFBA",
+    "data_evento": "2026-09-15T18:00:00-03:00",
+    "tipo": "Assembleia"
+  },
+  {
+    "slug": "semana-gestao-social",
+    "titulo": "Semana de Gestão Social 2026",
+    "descricao": "Semana acadêmica com palestras, mesas redondas e lançamento da Revista Saber em Movimento.",
+    "local": "EAUFBA – Salas e Auditório",
+    "data_evento": "2026-10-20T08:00:00-03:00",
+    "tipo": "Evento Acadêmico"
+  }
+]
