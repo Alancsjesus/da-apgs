@@ -4,6 +4,7 @@ import { conteudo } from '@/lib/content-static'
 import { Card, CardBody } from '@/components/ui/Card'
 import Badge from '@/components/ui/Badge'
 import { formatarDataCurta, isNovo } from '@/lib/utils'
+import type { Documento } from '@/types'
 
 export const metadata: Metadata = { title: 'Transparência' }
 
