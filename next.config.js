@@ -1,7 +1,12 @@
 /** @type {import('next').NextConfig} */
+const isProd = process.env.NODE_ENV === 'production'
+const basePath = isProd ? '/da-apgs' : ''
+
 const nextConfig = {
   output: 'export',
   trailingSlash: true,
+  basePath,
+  assetPrefix: basePath,
   images: {
     unoptimized: true,
   },
